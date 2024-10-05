@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 👋 Hi, I’m Amirreza Anari
 - 👀 I’m interested in Ai and Android
-- 🌱 I’m currently learning Kotlin and Also Working on a project with Kotlin Language
+- 🌱 I’m currently learning Kotlin and Also working on a project with Kotlin Language
 
 
 # 💻 Tech Stack:
